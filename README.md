@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aadith2005
-- 👀 I’m interested in Electrical and electronics
+- 👀 I’m interested in Electrical and electronics projects 
 - 🌱 I’m currently learning EEE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
